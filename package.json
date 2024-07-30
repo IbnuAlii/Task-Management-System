@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ibnualii.github.io/Task-Management-System/",
+  "homepage": "https://ibnualii.github.io/Task-Management-System-FrontEnd/",
   "name": "task-managment",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +16,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.4",
     "dayjs": "^1.11.10",
+    "firebase": "^10.12.4",
     "formik": "^2.4.5",
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
