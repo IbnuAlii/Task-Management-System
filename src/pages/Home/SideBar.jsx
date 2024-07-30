@@ -59,7 +59,7 @@ const SideBar = () => {
           <Avatar
             sx={{ width: "8rem", height: "8rem" }}
             className="border-2 border-[#c24dd0]"
-            src="PROFILE.JPG"
+            src="https://cdn.pixabay.com/photo/2022/12/24/21/14/portrait-7676482_1280.jpg"
             alt=""
           />
         </div>

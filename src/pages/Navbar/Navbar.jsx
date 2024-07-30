@@ -13,7 +13,7 @@ const Navbar = () => {
         <p className="font-semibold text-lgx">{auth.user.fullName}</p>
         <Avatar
           alt="Remy Sharp"
-          src="PROFILE2.JPG"
+          src="https://cdn.pixabay.com/photo/2022/12/24/21/14/portrait-7676482_1280.jpg"
         />
       </div>
     </div>
