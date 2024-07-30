@@ -26,7 +26,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Deployment
 
-This project is deployed at [Live Project](https://ibnualii.github.io/Task-Management-System/).
+This project is deployed at [Live Project]([https://ibnualii.github.io/Task-Management-System/](https://ibnualii.github.io/Task-Management-System-FrontEnd/)).
 
 ## Learn More
 
